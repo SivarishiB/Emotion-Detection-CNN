@@ -26,3 +26,7 @@ copy these two files create model folder in your project directory and paste it.
 
 ### run your emotion detection test file
 python TestEmotionDetector.py
+
+### Database 
+For the data of grey scale images, we have provided a zip file --> archive.zip.
+Unzip the file into the Folder as data and train the model with python TrainEmotionDetector.py.
